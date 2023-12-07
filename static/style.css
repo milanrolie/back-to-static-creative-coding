@@ -178,6 +178,42 @@
     font-display: swap;
 }
 
+
+@font-face {
+    font-family: 'Diskopia Dots';
+    src: url('font/Diskopia-Dots.woff2') format('woff2'),
+        url('font/Diskopia-Dots.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Diskopia Flat';
+    src: url('font/Diskopia-Flat.woff2') format('woff2'),
+        url('font/Diskopia-Flat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Diskopia Lines';
+    src: url('font/Diskopia-Lines.woff2') format('woff2'),
+        url('font/Diskopia-Lines.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+
 body {
     font-family: 'At Aero TRIAL';
 }

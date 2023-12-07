@@ -38,11 +38,13 @@
     <span class="met ballen words"> <div class="move">page load</div> </span>
   </h1>
 
+  <a href="/riso">
   <h1>
     <span class="creatief2 words2"> <div class="move2">Go to</div> </span>
     <span class="webbureau2 words2"> <div class="move2">next</div> </span>
     <span class="met ballen2 words2"> <div class="move2">week</div> </span>
   </h1>
+</a>
   <MaskAmimation />
 
   <div class="background">
