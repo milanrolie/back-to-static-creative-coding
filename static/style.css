@@ -1,0 +1,183 @@
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-ThinItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL Super';
+    src: url('font/AtAeroTRIAL-Super.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Super.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Regular.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-MediumItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL Air';
+    src: url('font/AtAeroTRIAL-Air.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Air.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL Retina';
+    src: url('font/AtAeroTRIAL-Retina.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Retina.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Black.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-LightItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-BlackItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-BlackItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Light.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL Air';
+    src: url('font/AtAeroTRIAL-AirItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-AirItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL Super';
+    src: url('font/AtAeroTRIAL-SuperItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-SuperItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-SemiboldItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Bold.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Medium.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-RegularItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL Retina';
+    src: url('font/AtAeroTRIAL-RetinaItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-RetinaItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Semibold.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-BoldItalic.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'At Aero TRIAL';
+    src: url('font/AtAeroTRIAL-Thin.woff2') format('woff2'),
+        url('font/AtAeroTRIAL-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'At Aero TRIAL';
+}
