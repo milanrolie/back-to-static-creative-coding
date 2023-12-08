@@ -8,7 +8,7 @@
 
   onMount(() => {
     gsap.from(".sphere", {
-        delay: 6,
+      delay: 6,
       duration: 4,
       x: "100%",
       rotate: 5,
@@ -18,17 +18,15 @@
     gsap.from(".sphere", {
       rotate: 360,
       duration: 500,
-    
     });
 
     gsap.from(".shadow", {
-        delay: 6,
+      delay: 6,
       duration: 4,
       x: "100%",
       ease: "Power4.easeOut",
     });
-});
-
+  });
 </script>
 
 <section>
@@ -39,12 +37,12 @@
   </h1>
 
   <a href="/riso">
-  <h1>
-    <span class="creatief2 words2"> <div class="move2">Go to</div> </span>
-    <span class="webbureau2 words2"> <div class="move2">next</div> </span>
-    <span class="met ballen2 words2"> <div class="move2">week</div> </span>
-  </h1>
-</a>
+    <h1>
+      <span class="creatief2 words2"> <div class="move2">Go to</div> </span>
+      <span class="webbureau2 words2"> <div class="move2">next</div> </span>
+      <span class="met ballen2 words2"> <div class="move2">week</div> </span>
+    </h1>
+  </a>
   <MaskAmimation />
 
   <div class="background">
@@ -69,7 +67,7 @@
     font-size: 2.5rem;
     font-weight: 500;
     display: flex;
-    gap: .5rem;
+    gap: 0.5rem;
   }
 
   section {
@@ -237,16 +235,11 @@
     }
   }
 
-
   .words {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
   }
 
-
-
   .words2 {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
   }
-
-
 </style>

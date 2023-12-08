@@ -145,8 +145,8 @@ import Navigation from "$lib/components/Navigation.svelte"
 
   nav {
     position: fixed;
-    top: bottom;
-    height: 100vh;
+    top: 0;
+    /* height: 100vh; */
     width: 100%;
     z-index: 99999;
     padding: 2rem;
